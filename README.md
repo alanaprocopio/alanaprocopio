@@ -8,4 +8,8 @@ Meu nome é Alana Procopio
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 
 
-### Vocẽ
+### Vocẽ pode entrar em contato comigo
+
+-alana.santos.procopio@escola.pr.gov.br
+
+
