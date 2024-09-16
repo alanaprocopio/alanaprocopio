@@ -2,7 +2,7 @@
 
 Meu nome é Alana Procopio
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -12,4 +12,4 @@ Meu nome é Alana Procopio
 
 -alana.santos.procopio@escola.pr.gov.br
 
-
+![image](https://github.com/user-attachments/assets/283d0e95-ab58-46bc-bc98-e4adeddb8c2c)
